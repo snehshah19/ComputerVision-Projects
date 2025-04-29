@@ -53,7 +53,7 @@ while cap.isOpened():
                 print("Blink detected!")
                 
                 # Action 1: Scroll down the mouse
-                pyautogui.scroll(-10)
+                pyautogui.scroll(-100)
                 
                 
         else:
